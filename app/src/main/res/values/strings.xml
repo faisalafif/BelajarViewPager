@@ -5,4 +5,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="Hello">HELLO !</string>
     <string name="WELLCOME">WELLCOME !</string>
+    <string name="Data">Data</string>
+    <string name="HALLO">HALLO !</string>
 </resources>
